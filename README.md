@@ -1,6 +1,8 @@
 # robotic-process-automation
 
-A combination of Blue Prism, Windows bash terminal commands and Java together, can automate tedious repetitive daily operations. This repository holds public demo videos which showcase the power of business process automation.
+A combination of Blue Prism, Windows bash terminal commands and Java together, can automate tedious repetitive daily operations. This repository holds public demo videos which showcase the power of robotic process automation and how it can automate tedious, repetitive and mundane tasks which humans would find boring to complete on a daily basis for an extended period of time.
+
+These RPA solutions were dpeloyed to virtual machines hosted in MS Azure. I later further automated the deployment process using Powershell scripts.
 
 # Meeting Prep Tool
 
@@ -36,3 +38,7 @@ Here's a demo video of the automated RPA government process in action:
 Demo Image Thumbnail:
 
 <img src="images/URA-Demo-Preview.png" alt="URA Demo Thumbnail" width="400" />
+
+<br>
+
+_Disclaimer: The code for these projects is propreitary. Hence, I have not disclosed it here. However, the demo videos I have uploaded were already uploaded to other public platforms like LinkedIn so I have added them here as part of my personal portfolio._
