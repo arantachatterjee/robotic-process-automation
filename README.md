@@ -1,4 +1,4 @@
-# robotic-process-automation
+# Robotic Process Automation
 
 A combination of Blue Prism, Windows bash terminal commands and Java together, can automate tedious repetitive daily operations. This repository holds public demo videos which showcase the power of robotic process automation and how it can automate tedious, repetitive and mundane tasks which humans would find boring to complete on a daily basis for an extended period of time.
 
