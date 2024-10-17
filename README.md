@@ -4,6 +4,8 @@ A combination of Blue Prism, Windows bash terminal commands and Java together, c
 
 These RPA solutions were dpeloyed to virtual machines hosted in MS Azure. I later further automated the deployment process using Powershell scripts.
 
+I was a solo developer on these projects. I did not have any technical help available. Hence, I had the privilege of building everything end-to-end on my own. :-)
+
 # Meeting Prep Tool
 
 ## Blue Prism + Java + Bash
@@ -18,7 +20,7 @@ Here's a demo video of the automated RPA business process in action:
 
 [Watch the video here](demo-videos/Meeting%20Prep%20Blue%20Prism.mp4)
 
-Demo Image Thumbnail:
+Demo Image:
 
 <img src="images/Meeting-Prep-Preview.png" alt="Meeting Prep Thumbnail" width="400" />
 
@@ -35,9 +37,25 @@ Here's a demo video of the automated RPA government process in action:
 
 [Watch the video here](demo-videos/URA%20Demo.mp4)
 
-Demo Image Thumbnail:
+Demo Image:
 
 <img src="images/URA-Demo-Preview.png" alt="URA Demo Thumbnail" width="400" />
+
+# Paycheck Protection Program (PPP) Application
+
+## PPP for Small Businesses - Application Process Automation
+
+During covid, the US government had introduced a Paycheck Protection Program to help small businesses survive and thrive during the lockdown. I built a quick Proof-of-Concept to showcase how RPA could be leveraged by small businesses to complete these PP applications. It could verify whether the received application was complete or incomplete, by validating each of the fields in the application. If an application was found to be incomplete, an email would automatically be sent to the application filer informing them that the application was incomplete and would mention which mandatory application fields were filled incorrectly or left blank.
+
+### Demo Video
+
+Here's a demo video of the automated RPA government process in action:
+
+[Watch the video here](demo-videos/RPA%20PPP.mp4)
+
+Demo Image:
+
+<img src="images/PPP.png" alt="PPP Demo Thumbnail" width="400" />
 
 <br>
 
